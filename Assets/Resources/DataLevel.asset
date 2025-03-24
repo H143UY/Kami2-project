@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d51efd9d28a48d34c9e247e7704c1b13, type: 3}
+  m_Name: DataLevel
+  m_EditorClassIdentifier: 
+  foldoutImportGUI: 1
+  documentId: 1LmazjyHnxvBDDmOnUU8-DvwfmLR06dGKD4nKsoicqnY
+  selectedTogglesIds:
+  - lv1
+  - lv2
+  - lv3
+  foldoutSerializationGUI: 0
+  serializationOutputPath: ../../Configs
+  serializationFileName: Configs.v0.1
+  serializationFormat: 0
+  content:
+    lv1:
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    lv2:
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 1
+      Colum5: 1
+      Colum6: 1
+      Colum7: 1
+      Colum8: 1
+      Colum9: 1
+      Colum10: 1
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 1
+      Colum5: 1
+      Colum6: 1
+      Colum7: 1
+      Colum8: 1
+      Colum9: 1
+      Colum10: 1
+    - Colum1: 2
+      Colum2: 2
+      Colum3: 2
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 2
+      Colum9: 2
+      Colum10: 2
+    - Colum1: 2
+      Colum2: 2
+      Colum3: 2
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 2
+      Colum9: 2
+      Colum10: 2
+    - Colum1: 2
+      Colum2: 2
+      Colum3: 2
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 2
+      Colum8: 2
+      Colum9: 2
+      Colum10: 2
+    - Colum1: 4
+      Colum2: 4
+      Colum3: 4
+      Colum4: 4
+      Colum5: 4
+      Colum6: 4
+      Colum7: 4
+      Colum8: 4
+      Colum9: 4
+      Colum10: 4
+    - Colum1: 4
+      Colum2: 4
+      Colum3: 4
+      Colum4: 4
+      Colum5: 4
+      Colum6: 4
+      Colum7: 4
+      Colum8: 4
+      Colum9: 4
+      Colum10: 4
+    - Colum1: 4
+      Colum2: 4
+      Colum3: 4
+      Colum4: 4
+      Colum5: 4
+      Colum6: 4
+      Colum7: 4
+      Colum8: 4
+      Colum9: 4
+      Colum10: 4
+    - Colum1: 3
+      Colum2: 3
+      Colum3: 3
+      Colum4: 3
+      Colum5: 3
+      Colum6: 3
+      Colum7: 3
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    - Colum1: 3
+      Colum2: 3
+      Colum3: 3
+      Colum4: 3
+      Colum5: 3
+      Colum6: 3
+      Colum7: 3
+      Colum8: 3
+      Colum9: 3
+      Colum10: 3
+    lv3:
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 1
+      Colum5: 1
+      Colum6: 1
+      Colum7: 1
+      Colum8: 1
+      Colum9: 1
+      Colum10: 1
+    - Colum1: 1
+      Colum2: 1
+      Colum3: 1
+      Colum4: 1
+      Colum5: 1
+      Colum6: 1
+      Colum7: 1
+      Colum8: 1
+      Colum9: 1
+      Colum10: 2
+    - Colum1: 5
+      Colum2: 5
+      Colum3: 5
+      Colum4: 5
+      Colum5: 5
+      Colum6: 5
+      Colum7: 5
+      Colum8: 5
+      Colum9: 2
+      Colum10: 2
+    - Colum1: 5
+      Colum2: 5
+      Colum3: 5
+      Colum4: 5
+      Colum5: 5
+      Colum6: 5
+      Colum7: 5
+      Colum8: 5
+      Colum9: 2
+      Colum10: 2
+    - Colum1: 3
+      Colum2: 3
+      Colum3: 3
+      Colum4: 3
+      Colum5: 3
+      Colum6: 3
+      Colum7: 3
+      Colum8: 2
+      Colum9: 2
+      Colum10: 2
+    - Colum1: 3
+      Colum2: 3
+      Colum3: 3
+      Colum4: 3
+      Colum5: 3
+      Colum6: 3
+      Colum7: 3
+      Colum8: 2
+      Colum9: 2
+      Colum10: 2
+    - Colum1: 3
+      Colum2: 3
+      Colum3: 3
+      Colum4: 3
+      Colum5: 3
+      Colum6: 3
+      Colum7: 3
+      Colum8: 2
+      Colum9: 2
+      Colum10: 2
+    - Colum1: 2
+      Colum2: 2
+      Colum3: 2
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 1
+      Colum8: 1
+      Colum9: 1
+      Colum10: 1
+    - Colum1: 2
+      Colum2: 2
+      Colum3: 2
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 1
+      Colum8: 1
+      Colum9: 1
+      Colum10: 1
+    - Colum1: 2
+      Colum2: 2
+      Colum3: 2
+      Colum4: 2
+      Colum5: 2
+      Colum6: 2
+      Colum7: 1
+      Colum8: 1
+      Colum9: 1
+      Colum10: 1

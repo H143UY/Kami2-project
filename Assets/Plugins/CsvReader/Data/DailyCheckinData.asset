@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f48964f8dfc931343af9c4058de12db4, type: 3}
+  m_Name: DailyCheckinData
+  m_EditorClassIdentifier: 
+  classInfomations:
+  - className: DailyCheckinData
+    csvInformations:
+    - className: DailyCheckinData
+      csvFile: {fileID: 4900000, guid: 07e8461b29172cb44a8a01ecbc457bf3, type: 3}
+      csvPath: Assets/Csv/daily_checkin_data.csv
+      usingFolder: 0
+      csvFolderPath: 
+      separateScriptableObject: 0
+      fileStartWith: 
+      fieldSetValue: dailyCheckinDatas
+      isConvert: 0
+      convertMethod: 
