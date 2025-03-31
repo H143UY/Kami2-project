@@ -13,316 +13,912 @@ MonoBehaviour:
   m_Name: DataLevel
   m_EditorClassIdentifier: 
   foldoutImportGUI: 1
-  documentId: 1LmazjyHnxvBDDmOnUU8-DvwfmLR06dGKD4nKsoicqnY
+  documentId: 1D88qw-XKJDp3o4g0b94uJawCUVinMIT1JyMqK2soV48
   selectedTogglesIds:
   - lv1
   - lv2
   - lv3
+  - lv10
+  - lv11
+  - lv4
+  - lv5
+  - lv6
+  - lv7
+  - lv8
+  - lv9
   foldoutSerializationGUI: 0
   serializationOutputPath: ../../Configs
   serializationFileName: Configs.v0.1
   serializationFormat: 0
   content:
     lv1:
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
     lv2:
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 1
-      Colum5: 1
-      Colum6: 1
-      Colum7: 1
-      Colum8: 1
-      Colum9: 1
-      Colum10: 1
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 1
-      Colum5: 1
-      Colum6: 1
-      Colum7: 1
-      Colum8: 1
-      Colum9: 1
-      Colum10: 1
-    - Colum1: 2
-      Colum2: 2
-      Colum3: 2
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 2
-      Colum9: 2
-      Colum10: 2
-    - Colum1: 2
-      Colum2: 2
-      Colum3: 2
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 2
-      Colum9: 2
-      Colum10: 2
-    - Colum1: 2
-      Colum2: 2
-      Colum3: 2
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 2
-      Colum8: 2
-      Colum9: 2
-      Colum10: 2
-    - Colum1: 4
-      Colum2: 4
-      Colum3: 4
-      Colum4: 4
-      Colum5: 4
-      Colum6: 4
-      Colum7: 4
-      Colum8: 4
-      Colum9: 4
-      Colum10: 4
-    - Colum1: 4
-      Colum2: 4
-      Colum3: 4
-      Colum4: 4
-      Colum5: 4
-      Colum6: 4
-      Colum7: 4
-      Colum8: 4
-      Colum9: 4
-      Colum10: 4
-    - Colum1: 4
-      Colum2: 4
-      Colum3: 4
-      Colum4: 4
-      Colum5: 4
-      Colum6: 4
-      Colum7: 4
-      Colum8: 4
-      Colum9: 4
-      Colum10: 4
-    - Colum1: 3
-      Colum2: 3
-      Colum3: 3
-      Colum4: 3
-      Colum5: 3
-      Colum6: 3
-      Colum7: 3
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
-    - Colum1: 3
-      Colum2: 3
-      Colum3: 3
-      Colum4: 3
-      Colum5: 3
-      Colum6: 3
-      Colum7: 3
-      Colum8: 3
-      Colum9: 3
-      Colum10: 3
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 2_#FF9900
+      Colum_2: 2_#FF9900
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 2_#FF9900
+      Colum_2: 2_#FF9900
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 2_#FF9900
+      Colum_2: 2_#FF9900
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
     lv3:
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 1
-      Colum5: 1
-      Colum6: 1
-      Colum7: 1
-      Colum8: 1
-      Colum9: 1
-      Colum10: 1
-    - Colum1: 1
-      Colum2: 1
-      Colum3: 1
-      Colum4: 1
-      Colum5: 1
-      Colum6: 1
-      Colum7: 1
-      Colum8: 1
-      Colum9: 1
-      Colum10: 2
-    - Colum1: 5
-      Colum2: 5
-      Colum3: 5
-      Colum4: 5
-      Colum5: 5
-      Colum6: 5
-      Colum7: 5
-      Colum8: 5
-      Colum9: 2
-      Colum10: 2
-    - Colum1: 5
-      Colum2: 5
-      Colum3: 5
-      Colum4: 5
-      Colum5: 5
-      Colum6: 5
-      Colum7: 5
-      Colum8: 5
-      Colum9: 2
-      Colum10: 2
-    - Colum1: 3
-      Colum2: 3
-      Colum3: 3
-      Colum4: 3
-      Colum5: 3
-      Colum6: 3
-      Colum7: 3
-      Colum8: 2
-      Colum9: 2
-      Colum10: 2
-    - Colum1: 3
-      Colum2: 3
-      Colum3: 3
-      Colum4: 3
-      Colum5: 3
-      Colum6: 3
-      Colum7: 3
-      Colum8: 2
-      Colum9: 2
-      Colum10: 2
-    - Colum1: 3
-      Colum2: 3
-      Colum3: 3
-      Colum4: 3
-      Colum5: 3
-      Colum6: 3
-      Colum7: 3
-      Colum8: 2
-      Colum9: 2
-      Colum10: 2
-    - Colum1: 2
-      Colum2: 2
-      Colum3: 2
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 1
-      Colum8: 1
-      Colum9: 1
-      Colum10: 1
-    - Colum1: 2
-      Colum2: 2
-      Colum3: 2
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 1
-      Colum8: 1
-      Colum9: 1
-      Colum10: 1
-    - Colum1: 2
-      Colum2: 2
-      Colum3: 2
-      Colum4: 2
-      Colum5: 2
-      Colum6: 2
-      Colum7: 1
-      Colum8: 1
-      Colum9: 1
-      Colum10: 1
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    lv4:
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    lv5:
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 2_#FF9900
+      Colum_2: 2_#FF9900
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 2_#FF9900
+      Colum_2: 2_#FF9900
+      Colum_3: 2_#FF9900
+      Colum_4: 2_#FF9900
+      Colum_5: 2_#FF9900
+      Colum_6: 2_#FF9900
+      Colum_7: 2_#FF9900
+      Colum_8: 2_#FF9900
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 4_#FF9900
+      Colum_2: 4_#FF9900
+      Colum_3: 4_#FF9900
+      Colum_4: 4_#FF9900
+      Colum_5: 4_#FF9900
+      Colum_6: 4_#FF9900
+      Colum_7: 4_#FF9900
+      Colum_8: 4_#FF9900
+    - Colum_1: 4_#FF9900
+      Colum_2: 4_#FF9900
+      Colum_3: 4_#FF9900
+      Colum_4: 4_#FF9900
+      Colum_5: 4_#FF9900
+      Colum_6: 4_#FF9900
+      Colum_7: 4_#FF9900
+      Colum_8: 4_#FF9900
+    - Colum_1: 5_#0099CC
+      Colum_2: 5_#0099CC
+      Colum_3: 5_#0099CC
+      Colum_4: 5_#0099CC
+      Colum_5: 5_#0099CC
+      Colum_6: 5_#0099CC
+      Colum_7: 5_#0099CC
+      Colum_8: 5_#0099CC
+    lv6:
+    - Colum_1: 3_#0099CC
+      Colum_2: 3_#0099CC
+      Colum_3: 3_#0099CC
+      Colum_4: 3_#0099CC
+      Colum_5: 3_#0099CC
+      Colum_6: 3_#0099CC
+      Colum_7: 3_#0099CC
+      Colum_8: 3_#0099CC
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 2_#FF9900
+      Colum_2: 2_#FF9900
+      Colum_3: 5_#0099CC
+      Colum_4: 5_#0099CC
+      Colum_5: 5_#0099CC
+      Colum_6: 5_#0099CC
+      Colum_7: 4_#FF9900
+      Colum_8: 4_#FF9900
+    - Colum_1: 2_#FF9900
+      Colum_2: 2_#FF9900
+      Colum_3: 5_#0099CC
+      Colum_4: 5_#0099CC
+      Colum_5: 5_#0099CC
+      Colum_6: 5_#0099CC
+      Colum_7: 4_#FF9900
+      Colum_8: 4_#FF9900
+    - Colum_1: 2_#FF9900
+      Colum_2: 2_#FF9900
+      Colum_3: 5_#0099CC
+      Colum_4: 5_#0099CC
+      Colum_5: 5_#0099CC
+      Colum_6: 5_#0099CC
+      Colum_7: 4_#FF9900
+      Colum_8: 4_#FF9900
+    - Colum_1: 2_#FF9900
+      Colum_2: 2_#FF9900
+      Colum_3: 5_#0099CC
+      Colum_4: 5_#0099CC
+      Colum_5: 5_#0099CC
+      Colum_6: 5_#0099CC
+      Colum_7: 4_#FF9900
+      Colum_8: 4_#FF9900
+    - Colum_1: 6_#FF5733
+      Colum_2: 6_#FF5733
+      Colum_3: 6_#FF5733
+      Colum_4: 6_#FF5733
+      Colum_5: 6_#FF5733
+      Colum_6: 6_#FF5733
+      Colum_7: 6_#FF5733
+      Colum_8: 6_#FF5733
+    - Colum_1: 6_#FF5733
+      Colum_2: 6_#FF5733
+      Colum_3: 6_#FF5733
+      Colum_4: 6_#FF5733
+      Colum_5: 6_#FF5733
+      Colum_6: 6_#FF5733
+      Colum_7: 6_#FF5733
+      Colum_8: 6_#FF5733
+    - Colum_1: 7_#0099CC
+      Colum_2: 7_#0099CC
+      Colum_3: 7_#0099CC
+      Colum_4: 7_#0099CC
+      Colum_5: 7_#0099CC
+      Colum_6: 7_#0099CC
+      Colum_7: 7_#0099CC
+      Colum_8: 7_#0099CC
+    lv7:
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 3_#FF5733
+      Colum_4: 3_#FF5733
+      Colum_5: 3_#FF5733
+      Colum_6: 3_#FF5733
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 3_#FF5733
+      Colum_4: 3_#FF5733
+      Colum_5: 3_#FF5733
+      Colum_6: 3_#FF5733
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 3_#FF5733
+      Colum_4: 3_#FF5733
+      Colum_5: 3_#FF5733
+      Colum_6: 3_#FF5733
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 3_#FF5733
+      Colum_4: 3_#FF5733
+      Colum_5: 3_#FF5733
+      Colum_6: 3_#FF5733
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 3_#FF5733
+      Colum_4: 3_#FF5733
+      Colum_5: 3_#FF5733
+      Colum_6: 3_#FF5733
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 3_#FF5733
+      Colum_4: 3_#FF5733
+      Colum_5: 3_#FF5733
+      Colum_6: 3_#FF5733
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    lv8:
+    - Colum_1: 3_#00AC47
+      Colum_2: 3_#00AC47
+      Colum_3: 3_#00AC47
+      Colum_4: 3_#00AC47
+      Colum_5: 3_#00AC47
+      Colum_6: 3_#00AC47
+      Colum_7: 3_#00AC47
+      Colum_8: 3_#00AC47
+    - Colum_1: 3_#00AC47
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 3_#00AC47
+    - Colum_1: 3_#00AC47
+      Colum_2: 1_#FF5733
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 1_#FF5733
+      Colum_8: 3_#00AC47
+    - Colum_1: 3_#00AC47
+      Colum_2: 1_#FF5733
+      Colum_3: 2_#00AC47
+      Colum_4: 4_#FF5733
+      Colum_5: 4_#FF5733
+      Colum_6: 2_#00AC47
+      Colum_7: 1_#FF5733
+      Colum_8: 3_#00AC47
+    - Colum_1: 3_#00AC47
+      Colum_2: 1_#FF5733
+      Colum_3: 2_#00AC47
+      Colum_4: 4_#FF5733
+      Colum_5: 4_#FF5733
+      Colum_6: 2_#00AC47
+      Colum_7: 1_#FF5733
+      Colum_8: 3_#00AC47
+    - Colum_1: 3_#00AC47
+      Colum_2: 1_#FF5733
+      Colum_3: 2_#00AC47
+      Colum_4: 4_#FF5733
+      Colum_5: 4_#FF5733
+      Colum_6: 2_#00AC47
+      Colum_7: 1_#FF5733
+      Colum_8: 3_#00AC47
+    - Colum_1: 3_#00AC47
+      Colum_2: 1_#FF5733
+      Colum_3: 2_#00AC47
+      Colum_4: 4_#FF5733
+      Colum_5: 4_#FF5733
+      Colum_6: 2_#00AC47
+      Colum_7: 1_#FF5733
+      Colum_8: 3_#00AC47
+    - Colum_1: 3_#00AC47
+      Colum_2: 1_#FF5733
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 1_#FF5733
+      Colum_8: 3_#00AC47
+    - Colum_1: 3_#00AC47
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 3_#00AC47
+    - Colum_1: 3_#00AC47
+      Colum_2: 3_#00AC47
+      Colum_3: 3_#00AC47
+      Colum_4: 3_#00AC47
+      Colum_5: 3_#00AC47
+      Colum_6: 3_#00AC47
+      Colum_7: 3_#00AC47
+      Colum_8: 3_#00AC47
+    lv9:
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 2_#00AC47
+      Colum_2: 2_#00AC47
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 2_#00AC47
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 4_#FF9900
+      Colum_4: 4_#FF9900
+      Colum_5: 4_#FF9900
+      Colum_6: 4_#FF9900
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 5_#00AC47
+      Colum_4: 5_#00AC47
+      Colum_5: 5_#00AC47
+      Colum_6: 5_#00AC47
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 5_#00AC47
+      Colum_4: 6_#FF9900
+      Colum_5: 6_#FF9900
+      Colum_6: 5_#00AC47
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 5_#00AC47
+      Colum_4: 6_#FF9900
+      Colum_5: 6_#FF9900
+      Colum_6: 5_#00AC47
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 5_#00AC47
+      Colum_4: 5_#00AC47
+      Colum_5: 5_#00AC47
+      Colum_6: 5_#00AC47
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 4_#FF9900
+      Colum_4: 4_#FF9900
+      Colum_5: 4_#FF9900
+      Colum_6: 4_#FF9900
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 2_#00AC47
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 2_#00AC47
+      Colum_8: 2_#00AC47
+    - Colum_1: 3_#FF5733
+      Colum_2: 3_#FF5733
+      Colum_3: 3_#FF5733
+      Colum_4: 3_#FF5733
+      Colum_5: 3_#FF5733
+      Colum_6: 3_#FF5733
+      Colum_7: 3_#FF5733
+      Colum_8: 3_#FF5733
+    lv10:
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 3_#FF9900
+      Colum_4: 3_#FF9900
+      Colum_5: 3_#FF9900
+      Colum_6: 3_#FF9900
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 3_#FF9900
+      Colum_4: 4_#FF5733
+      Colum_5: 4_#FF5733
+      Colum_6: 3_#FF9900
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 3_#FF9900
+      Colum_4: 3_#FF9900
+      Colum_5: 3_#FF9900
+      Colum_6: 3_#FF9900
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 2_#00AC47
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 2_#00AC47
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 6_#FF9900
+      Colum_6: 6_#FF9900
+      Colum_7: 6_#FF9900
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 5_#00AC47
+      Colum_3: 5_#00AC47
+      Colum_4: 1_#FF5733
+      Colum_5: 6_#FF9900
+      Colum_6: 7_#00AC47
+      Colum_7: 6_#FF9900
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 5_#00AC47
+      Colum_3: 5_#00AC47
+      Colum_4: 1_#FF5733
+      Colum_5: 6_#FF9900
+      Colum_6: 6_#FF9900
+      Colum_7: 6_#FF9900
+      Colum_8: 1_#FF5733
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    lv11:
+    - Colum_1: 1_#FF5733
+      Colum_2: 1_#FF5733
+      Colum_3: 1_#FF5733
+      Colum_4: 1_#FF5733
+      Colum_5: 1_#FF5733
+      Colum_6: 1_#FF5733
+      Colum_7: 1_#FF5733
+      Colum_8: 1_#FF5733
+    - Colum_1: 2_#00AC47
+      Colum_2: 2_#00AC47
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 2_#00AC47
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 4_#FF9900
+      Colum_4: 4_#FF9900
+      Colum_5: 4_#FF9900
+      Colum_6: 4_#FF9900
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 5_#00AC47
+      Colum_4: 5_#00AC47
+      Colum_5: 5_#00AC47
+      Colum_6: 5_#00AC47
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 5_#00AC47
+      Colum_4: 6_#FF9900
+      Colum_5: 6_#FF9900
+      Colum_6: 5_#00AC47
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 5_#00AC47
+      Colum_4: 6_#FF9900
+      Colum_5: 6_#FF9900
+      Colum_6: 5_#00AC47
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 5_#00AC47
+      Colum_4: 5_#00AC47
+      Colum_5: 5_#00AC47
+      Colum_6: 5_#00AC47
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 4_#FF9900
+      Colum_3: 4_#FF9900
+      Colum_4: 4_#FF9900
+      Colum_5: 4_#FF9900
+      Colum_6: 4_#FF9900
+      Colum_7: 4_#FF9900
+      Colum_8: 2_#00AC47
+    - Colum_1: 2_#00AC47
+      Colum_2: 2_#00AC47
+      Colum_3: 2_#00AC47
+      Colum_4: 2_#00AC47
+      Colum_5: 2_#00AC47
+      Colum_6: 2_#00AC47
+      Colum_7: 2_#00AC47
+      Colum_8: 2_#00AC47
+    - Colum_1: 3_#FF5733
+      Colum_2: 3_#FF5733
+      Colum_3: 3_#FF5733
+      Colum_4: 3_#FF5733
+      Colum_5: 3_#FF5733
+      Colum_6: 3_#FF5733
+      Colum_7: 3_#FF5733
+      Colum_8: 3_#FF5733

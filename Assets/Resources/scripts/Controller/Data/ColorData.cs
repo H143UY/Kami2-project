@@ -1,6 +1,7 @@
 ﻿using NorskaLib.Spreadsheets;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Reflection;
 using UnityEngine;
 using static DataLevel;
@@ -14,11 +15,9 @@ public class ColorData : SpreadsheetsContainerBase
     public List<List<InforData>> GetAllColors()
     {
         List<List<InforData>> allColors = new List<List<InforData>>();
-        // Duyệt qua tất cả các Field trong class listLevel
         FieldInfo[] fields = typeof(listInfor).GetFields(BindingFlags.Public | BindingFlags.Instance);
         foreach (FieldInfo field in fields)
         {
-            // Kiểm tra nếu field đó là List<Level> thì thêm vào danh sách
             if (field.FieldType == typeof(List<InforData>))
             {
                 List<InforData> levelList = (List<InforData>)field.GetValue(content);
@@ -35,14 +34,37 @@ public class ColorData : SpreadsheetsContainerBase
 
 public class InforData
 {
-    public int ID;
-    public string HEX;
-    
+    public string colorCode1;
+    public string colorCode2;
+    public string colorCode3;
+    public string colorCode4;
+    public string finalColor;
+    public int moveLimit;
 }
 
 [Serializable]
 public class listInfor
 {
-    [SpreadsheetPage("Color")]
-    public List<InforData> Hex_Color;
+    [SpreadsheetPage("Level_1")]
+    public List<InforData> lv1;
+    [SpreadsheetPage("Level_2")]
+    public List<InforData> lv2;
+    [SpreadsheetPage("Level_3")]
+    public List<InforData> lv3;
+    [SpreadsheetPage("Level_4")]
+    public List<InforData> lv4;
+    [SpreadsheetPage("Level_5")]
+    public List<InforData> lv5;
+    [SpreadsheetPage("Level_6")]
+    public List<InforData> lv6;
+    [SpreadsheetPage("Level_7")]
+    public List<InforData> lv7;
+    [SpreadsheetPage("Level_8")]
+    public List<InforData> lv8;
+    [SpreadsheetPage("Level_9")]
+    public List<InforData> lv9;
+    [SpreadsheetPage("Level_10")]
+    public List<InforData> lv10;
+    [SpreadsheetPage("Level_11")]
+    public List<InforData> lv11;
 }

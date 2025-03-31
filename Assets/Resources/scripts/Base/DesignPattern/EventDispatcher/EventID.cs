@@ -1,8 +1,7 @@
 public enum EventID
 {
-    EnemyDestroy,
-    MaxExperience,
-    WaveSpawn,
-    EndWave,
-    ThunderEnemy
+   WinGame,
+   LoseGame,
+   SubMoveLimit,
+   addScore,
 }

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090161864086",
+    "project_id": "kami-color",
+    "storage_bucket": "kami-color.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090161864086:android:2e9d771ea5ccb33b3841b7",
+        "android_client_info": {
+          "package_name": "com.Kami.color"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBRNVIS-AObT3GvhMdO43ebajJh9GY8eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

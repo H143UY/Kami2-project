@@ -13,23 +13,693 @@ MonoBehaviour:
   m_Name: DataColor
   m_EditorClassIdentifier: 
   foldoutImportGUI: 1
-  documentId: 1LmazjyHnxvBDDmOnUU8-DvwfmLR06dGKD4nKsoicqnY
+  documentId: 1D88qw-XKJDp3o4g0b94uJawCUVinMIT1JyMqK2soV48
   selectedTogglesIds:
   - lv1
   - Hex_Color
+  - lv3
+  - lv2
+  - lv10
+  - lv11
+  - lv4
+  - lv5
+  - lv6
+  - lv7
+  - lv8
+  - lv9
   foldoutSerializationGUI: 0
   serializationOutputPath: ../../Configs
   serializationFileName: Configs.v0.1
   serializationFormat: 0
   content:
-    Hex_Color:
-    - ID: 1
-      HEX: '#FF0000'
-    - ID: 2
-      HEX: '#00FF00'
-    - ID: 3
-      HEX: '#0000FF'
-    - ID: 4
-      HEX: '#FFFF00'
-    - ID: 5
-      HEX: '#FF00FF'
+    lv1:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#FF5733'
+      moveLimit: 1
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv2:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#FF5733'
+      moveLimit: 2
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv3:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#0099CC'
+      moveLimit: 2
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv4:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#FF5733'
+      moveLimit: 2
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv5:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#0099CC'
+      moveLimit: 2
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv6:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#0099CC'
+      moveLimit: 3
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv7:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#FF5733'
+      moveLimit: 1
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv8:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#6D6D6D'
+      finalColor: '#00AC47'
+      moveLimit: 2
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv9:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#FF5733'
+      moveLimit: 3
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv10:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#FF5733'
+      moveLimit: 4
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    lv11:
+    - colorCode1: '#00AC47'
+      colorCode2: '#FF5733'
+      colorCode3: '#0099CC'
+      colorCode4: '#FF9900'
+      finalColor: '#FF9900'
+      moveLimit: 3
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
+    - colorCode1: 
+      colorCode2: 
+      colorCode3: 
+      colorCode4: 
+      finalColor: 
+      moveLimit: 0
