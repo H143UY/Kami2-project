@@ -205,6 +205,7 @@ public class GridManager : MonoBehaviour
             {
                 ColorManager.Instance.LoadColors();
                 ColorManager.Instance.AsignColor();
+                AdsController.Instance.ShowInterstitialAd();
             }
             Debug.Log($"chuyển cấp {currentLevelIndex + 1}");
         }
