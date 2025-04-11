@@ -1,7 +1,34 @@
 <dependencies>
   <packages>
     <package>androidx.constraintlayout:constraintlayout:2.1.4</package>
+    <package>androidx.recyclerview:recyclerview:1.2.1</package>
+    <package>com.android.support:customtabs:28.+</package>
+    <package>com.android.support:recyclerview-v7:28.+</package>
+    <package>com.applovin.mediation:bidmachine-adapter:3.2.1.0</package>
+    <package>com.applovin.mediation:bigoads-adapter:5.2.1.0</package>
+    <package>com.applovin.mediation:bytedance-adapter:6.5.0.8.1</package>
+    <package>com.applovin.mediation:chartboost-adapter:9.8.3.0</package>
+    <package>com.applovin.mediation:facebook-adapter:[6.19.0.2]</package>
+    <package>com.applovin.mediation:fyber-adapter:8.3.6.1</package>
+    <package>com.applovin.mediation:google-adapter:[24.2.0.0]</package>
+    <package>com.applovin.mediation:google-ad-manager-adapter:[24.1.0.0]</package>
+    <package>com.applovin.mediation:hyprmx-adapter:6.4.2.3</package>
+    <package>com.applovin.mediation:inmobi-adapter:10.8.2.0</package>
+    <package>com.applovin.mediation:ironsource-adapter:8.7.0.0.0</package>
+    <package>com.applovin.mediation:line-adapter:2025.1.10.1</package>
+    <package>com.applovin.mediation:maio-adapter:2.0.4.0</package>
+    <package>com.applovin.mediation:mintegral-adapter:16.9.61.0</package>
+    <package>com.applovin.mediation:mobilefuse-adapter:1.9.0.0</package>
+    <package>com.applovin.mediation:moloco-adapter:3.8.0.0</package>
+    <package>com.applovin.mediation:ogury-presage-adapter:6.0.1.1</package>
+    <package>com.applovin.mediation:pubmatic-adapter:4.5.1.0</package>
+    <package>com.applovin.mediation:smaato-adapter:22.7.2.0</package>
+    <package>com.applovin.mediation:unityads-adapter:4.14.1.0</package>
+    <package>com.applovin.mediation:verve-adapter:3.3.0.0</package>
+    <package>com.applovin.mediation:vungle-adapter:7.4.3.2</package>
+    <package>com.applovin:applovin-sdk:13.2.0</package>
     <package>com.google.android.gms:play-services-ads:24.1.0</package>
+    <package>com.google.android.gms:play-services-base:16.1.0</package>
     <package>com.google.android.gms:play-services-base:18.5.0</package>
     <package>com.google.android.ump:user-messaging-platform:3.1.0</package>
     <package>com.google.firebase:firebase-analytics:22.0.2</package>
@@ -14,6 +41,7 @@
     <package>com.google.firebase:firebase-messaging:24.0.0</package>
     <package>com.google.firebase:firebase-messaging-unity:12.2.0</package>
     <package>com.google.flatbuffers:flatbuffers-java:1.12.0</package>
+    <package>com.squareup.picasso:picasso:2.71828</package>
   </packages>
   <files>
     <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/12.1.0/firebase-analytics-unity-12.1.0.aar</file>

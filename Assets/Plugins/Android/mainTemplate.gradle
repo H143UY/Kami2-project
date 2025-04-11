@@ -5,7 +5,34 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 // Android Resolver Dependencies Start
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4' // Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:12
+    implementation 'androidx.recyclerview:recyclerview:1.2.1' // Assets/MaxSdk/Mediation/Mintegral/Editor/Dependencies.xml:9
+    implementation 'com.android.support:customtabs:28.+' // Assets/MaxSdk/Mediation/InMobi/Editor/Dependencies.xml:7
+    implementation 'com.android.support:recyclerview-v7:28.+' // Assets/MaxSdk/Mediation/InMobi/Editor/Dependencies.xml:6
+    implementation 'com.applovin.mediation:bidmachine-adapter:3.2.1.0' // Assets/MaxSdk/Mediation/BidMachine/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:bigoads-adapter:5.2.1.0' // Assets/MaxSdk/Mediation/BigoAds/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:bytedance-adapter:6.5.0.8.1' // Assets/MaxSdk/Mediation/ByteDance/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:chartboost-adapter:9.8.3.0' // Assets/MaxSdk/Mediation/Chartboost/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:facebook-adapter:[6.19.0.2]' // Assets/MaxSdk/Mediation/Facebook/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:fyber-adapter:8.3.6.1' // Assets/MaxSdk/Mediation/Fyber/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:google-adapter:[24.2.0.0]' // Assets/MaxSdk/Mediation/Google/Editor/Dependencies.xml:5
+    implementation 'com.applovin.mediation:google-ad-manager-adapter:[24.1.0.0]' // Assets/MaxSdk/Mediation/GoogleAdManager/Editor/Dependencies.xml:5
+    implementation 'com.applovin.mediation:hyprmx-adapter:6.4.2.3' // Assets/MaxSdk/Mediation/HyprMX/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:inmobi-adapter:10.8.2.0' // Assets/MaxSdk/Mediation/InMobi/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:ironsource-adapter:8.7.0.0.0' // Assets/MaxSdk/Mediation/IronSource/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:line-adapter:2025.1.10.1' // Assets/MaxSdk/Mediation/Line/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:maio-adapter:2.0.4.0' // Assets/MaxSdk/Mediation/Maio/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:mintegral-adapter:16.9.61.0' // Assets/MaxSdk/Mediation/Mintegral/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:mobilefuse-adapter:1.9.0.0' // Assets/MaxSdk/Mediation/MobileFuse/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:moloco-adapter:3.8.0.0' // Assets/MaxSdk/Mediation/Moloco/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:ogury-presage-adapter:6.0.1.1' // Assets/MaxSdk/Mediation/OguryPresage/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:pubmatic-adapter:4.5.1.0' // Assets/MaxSdk/Mediation/PubMatic/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:smaato-adapter:22.7.2.0' // Assets/MaxSdk/Mediation/Smaato/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:unityads-adapter:4.14.1.0' // Assets/MaxSdk/Mediation/UnityAds/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:verve-adapter:3.3.0.0' // Assets/MaxSdk/Mediation/Verve/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:vungle-adapter:7.4.3.2' // Assets/MaxSdk/Mediation/Vungle/Editor/Dependencies.xml:4
+    implementation 'com.applovin:applovin-sdk:13.2.0' // Assets/MaxSdk/AppLovin/Editor/Dependencies.xml:4
     implementation 'com.google.android.gms:play-services-ads:24.1.0' // Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:7
+    // implementation 'com.google.android.gms:play-services-base:16.1.0' // Assets/MaxSdk/Mediation/Chartboost/Editor/Dependencies.xml:9
     implementation 'com.google.android.gms:play-services-base:18.5.0' // Assets/Firebase/Editor/AppDependencies.xml:17
     implementation 'com.google.android.ump:user-messaging-platform:3.1.0' // Assets/GoogleMobileAds/Editor/GoogleUmpDependencies.xml:7
     implementation 'com.google.firebase:firebase-analytics:22.0.2' // Assets/Firebase/Editor/RemoteConfigDependencies.xml:15
@@ -18,6 +45,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:24.0.0' // Assets/Firebase/Editor/MessagingDependencies.xml:13
     implementation 'com.google.firebase:firebase-messaging-unity:12.2.0' // Assets/Firebase/Editor/MessagingDependencies.xml:24
     implementation 'com.google.flatbuffers:flatbuffers-java:1.12.0' // Assets/Firebase/Editor/MessagingDependencies.xml:19
+    implementation 'com.squareup.picasso:picasso:2.71828' // Assets/MaxSdk/Mediation/InMobi/Editor/Dependencies.xml:5
 // Android Resolver Dependencies End
 **DEPS**}
 
