@@ -4,4 +4,5 @@ public enum EventID
    LoseGame,
    SubMoveLimit,
    addScore,
+   addPrize,
 }

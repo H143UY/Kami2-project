@@ -10,6 +10,8 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
     public int selectedLevel;
     public bool NextLevel;
+    public TextMeshProUGUI PrizeText;
+    private int current_prize;
     private void Awake()
     {
         if (instance == null)
@@ -17,6 +19,10 @@ public class GameManager : MonoBehaviour
         this.RegisterListener(EventID.LoseGame, (sender, param) =>
         {
             SceneManager.LoadScene("LoseGame");
+        });
+        this.RegisterListener(EventID.addPrize, (sender, param) =>
+        {
+            current_prize += 10;
         });
         this.RegisterListener(EventID.WinGame, (sender, param) =>
         {
@@ -26,6 +32,11 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         NextLevel = false;
+        current_prize = 0;
+    }
+    private void Update()
+    {
+        PrizeText.text = current_prize.ToString();
     }
     public void LoadScene()
     {
@@ -51,5 +62,8 @@ public class GameManager : MonoBehaviour
         GridManager.Instance.ClearGrid();
         GridManager.Instance.GenerateGrid();
     }
-    
+    public void AddPrize()
+    {
+        AdsController.Instance.ShowRewardedAd();
+    }
 }
